@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Turki</h1>
 <h3 align="center">A passionate Software Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=4a27e482b9dfc5b6&sxsrf=ADLYWIKehT33vL5UQEsc8oZR96UuhGqhcg:1733238178952&q=animated+coding+gif&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3JyJJclJuzBPl12qJyPx7ESJehObpS5jg6J88CCM-RK72XCxuqiH2_0sBz_58AiWByuVsduZpkzE0RtxeqjQlglrSKkwnIb6t5pKJvYqndYTd_6dmNlHc4HY9fKW0J5dyRtnh2Kw&sa=X&ved=2ahUKEwilvd6v74uKAxUDywIHHeB2IGYQtKgLegQIGxAB&biw=1366&bih=641&dpr=1#vhid=dbrfb5dvHO4gVM&vssid=mosaic">
+<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas/attachments/10055456?mode=media.gif">
 - 🔭 I’m currently working from **Home**
 
 - 🌱 I’m currently learning **MEAN,MERN**

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Aziz Turki</h1>
 <h3 align="center">A passionate Software Developer from Tunisia</h3>
-<img align="right" alt="Coding" width="400" src="https://sdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working from **Home**
 
 - 🌱 I’m currently learning **MEAN,MERN**
